@@ -4,6 +4,6 @@
         <p>Базовые знания Linux;</p>
         <p>Размещение сайтов на серверах, создание бэкапов;</p>
         <p>Опыт работы с CMS. WordPress, Drupal, Joomla;</p>
-        <p>HTML, CSS, Bootstrap, Docker, MySQL, Bash, Nginx, FTP, Git, DNS, Модули ISPsystem</p>
+        <p>HTML, CSS, Bootstrap, MySQL, Bash, Nginx, FTP, Git, DNS, Модули ISPsystem</p>
     </div>
 </div>

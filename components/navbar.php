@@ -1,7 +1,6 @@
 <?php $url = $_SERVER['REQUEST_URI'];
 require_once 'connection.php';
 ?>
-
 <nav class="navbar-fixed-button navbar-expand-lg navbar-light bg-light" style="z-index: 1">
     <div class="container-fluid">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">

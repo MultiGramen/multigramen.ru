@@ -1,0 +1,6 @@
+*.DS_Store
+components/connection.php
+test.php
+action.php
+lib
+/.idea/
