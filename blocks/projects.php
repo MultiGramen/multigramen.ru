@@ -10,7 +10,7 @@
                     <img src="img/new-position.jpg" alt="Новая Позиция" width="100%" />
                 </picture>
             </a>
-            <p class="text-card"><strong>О сайте:</strong> создан на CMS WordPress и темой Mesmerize. Целью было создание блога и размещение информации о деятельности движения. В последствии функционал был расширен при помощи плагинов.</p>
+            <p class="text-card"><strong>О сайте:</strong> блог об общественном движении. Создан на CMS WordPress и темой Mesmerize. В последствии функционал был расширен при помощи плагинов.</p>
         </div>
         <div class="col-2">
             <img class="planet" src="img/planet.png" alt="Планета" width="32px"><p style="text-align: center; margin-top: -32px;">Техосмотр 163</p>
@@ -21,17 +21,15 @@
                     <img src="img/osmotr63.jpg" alt="Техосмотр 163" width="100%">
                 </picture>
             </a>
-            <p class="text-card"><strong>О сайте:</strong> создан на HTML, CSS и небольшим кодом JavaScript. Отдельно был разработан дизайн. В последствии сайт был улучшен и частично переведён на язык PHP, а также баз данных MariaDB. Целью было размещение информации об автосервисе, различных документов и контактов. Адаптирован под мобильные устройства.</p>
+            <p class="text-card"><strong>О сайте:</strong> личный сайт автосервиса с документами и контактами. Создан на HTML, CSS и небольшим кодом JavaScript. Отдельно был разработан дизайн. В позже сайт был улучшен, частично переведён на язык PHP и базы данных MariaDB. Адаптирован под мобильные устройства.</p>
         </div>
         <div class="col-3"><img class="planet" src="img/planet.png" alt="Планета" width="32px"><p style="text-align: center; margin-top: -32px;">КС СНР</p>
-            <a href="https://kssnr.ru/">
-                <picture>
-                    <source srcset="img/kssnr.webp" type="image/webp">
-                    <source srcset="img/kssnr.jpg" type="image/jpg">
-                    <img src="img/kssnr.jpg" alt="КС СНР" width="100%" />
-                </picture>
-            </a>
-            <p class="text-card"><strong>О сайте:</strong> создан на CMS Drupal и темой Holy. Целью было размещение на нём блога и документов. На сайте имеется поиск и возможность оставлять комментарии.</p>
+            <picture>
+                <source srcset="img/kssnr.webp" type="image/webp">
+                <source srcset="img/kssnr.jpg" type="image/jpg">
+                <img src="img/kssnr.jpg" alt="КС СНР" width="100%" />
+            </picture>
+            <p class="text-card"><strong>О сайте:</strong> блог общественного движения с документами. Создан на CMS Drupal и темой Holy. На сайте имелся поиск и возможность оставлять комментарии.</p>
         </div>
     </div>
 </div>

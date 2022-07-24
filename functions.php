@@ -1,6 +1,6 @@
 <?php
 function title() {
-require 'components/connection.php';
+    require 'components/connection.php';
 
     $url = $_SERVER['REQUEST_URI'];
 

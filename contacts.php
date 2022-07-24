@@ -8,6 +8,8 @@
     <link href="css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
     <link rel="shortcut icon" href="favicon.png" type="image/png">
     <link rel="stylesheet" href="css/main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
     <?php require ('components/connection.php'); ?>
 </head>
 <body>

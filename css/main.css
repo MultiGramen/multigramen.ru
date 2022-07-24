@@ -245,7 +245,10 @@
     border-radius: 1em;
     resize: none;
 }
-
+.button {
+    background: rgba(255, 2, 2, 0.76);
+    border-radius: 15px;
+}
 .notification {
     background-color: red;
     border-radius: 15px;
